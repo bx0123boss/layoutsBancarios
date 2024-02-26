@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/OrionSFI_core_commons.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/OrionSFI_core_estandarTransacciones.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/OrionSFI_core_institucion.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/OrionSFI_core_sistema.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/OrionSFI_core_tran_Transaccion.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/OrionSFI_core_usuario.jar"/>
+	<classpathentry kind="lib" path="C:/UCAP/lib/sqljdbc.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/OrionSFI_core_ReportesDEPP.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/OrionSFI_reportes.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/jasperreports-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/EAP-7.0.0/AGVZ/modules/com/tasf/orion/main/lib/jasperreports-fonts-5.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
